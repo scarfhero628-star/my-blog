@@ -1,0 +1,10 @@
+[
+  {
+    "slug": "javascript-async-patterns",
+    "title": "실무에서 자주 쓰는 JavaScript 비동기 패턴 5가지",
+    "date": "2026-09-04",
+    "tags": ["JavaScript", "비동기", "async/await", "Promise"],
+    "description": "콜백 지옥을 탈출하고 가독성 높은 코드를 짜기 위해 알아야 할 비동기 패턴을 정리했습니다.",
+    "readingTime": 2
+  }
+]
