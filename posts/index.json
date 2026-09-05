@@ -1,5 +1,13 @@
 [
   {
+    "slug": "css-grid-tips",
+    "title": "CSS Grid로 레이아웃 짜는 법 — 실무에서 바로 쓰는 팁 7가지",
+    "date": "2026-09-05",
+    "tags": ["CSS", "CSS Grid", "웹 개발", "레이아웃"],
+    "description": "CSS Grid의 핵심 개념과 실무에서 바로 활용할 수 있는 유용한 팁 7가지를 정리했습니다.",
+    "readingTime": 3
+  },
+  {
     "slug": "javascript-async-patterns",
     "title": "실무에서 자주 쓰는 JavaScript 비동기 패턴 5가지",
     "date": "2026-09-04",
