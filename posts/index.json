@@ -1,5 +1,13 @@
 [
   {
+    "slug": "developer-productivity-tools",
+    "title": "개발자 생산성을 10배 높이는 필수 도구 5가지",
+    "date": "2026-09-07",
+    "tags": ["생산성", "개발자", "도구", "효율화"],
+    "description": "매일 쓰는 개발 환경을 한 단계 업그레이드할 생산성 도구 5가지를 소개합니다.",
+    "readingTime": 2
+  },
+  {
     "slug": "css-grid-tips",
     "title": "CSS Grid로 레이아웃 짜는 법 — 실무에서 바로 쓰는 팁 7가지",
     "date": "2026-09-05",
