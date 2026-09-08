@@ -1,5 +1,13 @@
 [
   {
+    "slug": "effective-learning-for-developers",
+    "title": "개발자를 위한 효과적인 학습법 — 더 빠르게 성장하는 7가지 전략",
+    "date": "2026-09-08",
+    "tags": ["학습법", "개발자", "성장", "공부법"],
+    "description": "쏟아지는 기술 속에서 무엇을 어떻게 공부해야 할지 막막한 개발자를 위한 실전 학습 전략 7가지를 정리했습니다.",
+    "readingTime": 3
+  },
+  {
     "slug": "developer-productivity-tools",
     "title": "개발자 생산성을 10배 높이는 필수 도구 5가지",
     "date": "2026-09-07",
