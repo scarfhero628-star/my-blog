@@ -1,5 +1,13 @@
 [
   {
+    "slug": "open-source-contribution-guide",
+    "title": "오픈소스 프로젝트 기여 시작하기 — 첫 PR을 올리기까지",
+    "date": "2026-09-09",
+    "tags": ["오픈소스", "GitHub", "커리어", "개발자", "기여"],
+    "description": "오픈소스 프로젝트에 처음 기여하는 방법을 단계별로 안내하고, 첫 Pull Request를 성공적으로 머지하는 요령을 소개합니다.",
+    "readingTime": 4
+  },
+  {
     "slug": "effective-learning-for-developers",
     "title": "개발자를 위한 효과적인 학습법 — 더 빠르게 성장하는 7가지 전략",
     "date": "2026-09-08",
