@@ -1,5 +1,13 @@
 [
   {
+    "slug": "developer-habits",
+    "title": "시니어 개발자가 매일 실천하는 7가지 습관",
+    "date": "2026-09-10",
+    "tags": ["개발자 습관", "성장", "코드 품질", "커리어"],
+    "description": "경험 많은 개발자들이 꾸준히 유지하는 일상 습관 7가지를 통해 코드 품질과 성장 속도를 높이는 방법을 알아봅니다.",
+    "readingTime": 3
+  },
+  {
     "slug": "open-source-contribution-guide",
     "title": "오픈소스 프로젝트 기여 시작하기 — 첫 PR을 올리기까지",
     "date": "2026-09-09",
