@@ -1,5 +1,13 @@
 [
   {
+    "slug": "developer-reading-guide",
+    "title": "개발자가 책을 읽어야 하는 이유와 효율적인 독서법",
+    "date": "2026-09-12",
+    "tags": ["독서", "학습", "성장", "커리어"],
+    "description": "기술이 빠르게 변하는 시대에도 책이 개발자 성장의 핵심인 이유와 바쁜 일상 속 독서 루틴을 만드는 방법을 소개합니다.",
+    "readingTime": 3
+  },
+  {
     "slug": "technical-writing-for-developers",
     "title": "개발자를 위한 기술 글쓰기 — 코드만큼 중요한 커뮤니케이션 스킬",
     "date": "2026-09-11",
