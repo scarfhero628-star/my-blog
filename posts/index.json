@@ -1,5 +1,53 @@
 [
   {
+    "slug": "typescript-practical-patterns",
+    "title": "TypeScript 실전 패턴 — 타입 안전성을 극대화하는 5가지 기법",
+    "date": "2026-09-14",
+    "tags": ["TypeScript", "웹 개발", "JavaScript", "코드 품질"],
+    "description": "실무에서 TypeScript를 더 잘 활용하기 위해 꼭 알아야 할 5가지 핵심 패턴과 실전 예제를 소개합니다.",
+    "readingTime": 4
+  },
+  {
+    "slug": "developer-career-strategy",
+    "title": "개발자 커리어를 스스로 설계하는 법 — 5가지 핵심 전략",
+    "date": "2026-09-13",
+    "tags": ["커리어", "성장", "개발자", "취업", "자기계발"],
+    "description": "수동적으로 기회를 기다리지 않고 스스로 커리어를 설계하고 성장을 가속화하는 5가지 실전 전략을 소개합니다.",
+    "readingTime": 1
+  },
+  {
+    "slug": "developer-reading-guide",
+    "title": "개발자가 책을 읽어야 하는 이유와 효율적인 독서법",
+    "date": "2026-09-12",
+    "tags": ["독서", "학습", "성장", "커리어"],
+    "description": "기술이 빠르게 변하는 시대에도 책이 개발자 성장의 핵심인 이유와 바쁜 일상 속 독서 루틴을 만드는 방법을 소개합니다.",
+    "readingTime": 3
+  },
+  {
+    "slug": "technical-writing-for-developers",
+    "title": "개발자를 위한 기술 글쓰기 — 코드만큼 중요한 커뮤니케이션 스킬",
+    "date": "2026-09-11",
+    "tags": ["글쓰기", "기술 문서", "커뮤니케이션", "커리어"],
+    "description": "개발자가 문서, PR 설명, 블로그 글을 더 잘 쓰기 위한 실전 글쓰기 원칙과 루틴을 소개합니다.",
+    "readingTime": 2
+  },
+  {
+    "slug": "developer-habits",
+    "title": "시니어 개발자가 매일 실천하는 7가지 습관",
+    "date": "2026-09-10",
+    "tags": ["개발자 습관", "성장", "코드 품질", "커리어"],
+    "description": "경험 많은 개발자들이 꾸준히 유지하는 일상 습관 7가지를 통해 코드 품질과 성장 속도를 높이는 방법을 알아봅니다.",
+    "readingTime": 3
+  },
+  {
+    "slug": "open-source-contribution-guide",
+    "title": "오픈소스 프로젝트 기여 시작하기 — 첫 PR을 올리기까지",
+    "date": "2026-09-09",
+    "tags": ["오픈소스", "GitHub", "커리어", "개발자", "기여"],
+    "description": "오픈소스 프로젝트에 처음 기여하는 방법을 단계별로 안내하고, 첫 Pull Request를 성공적으로 머지하는 요령을 소개합니다.",
+    "readingTime": 4
+  },
+  {
     "slug": "effective-learning-for-developers",
     "title": "개발자를 위한 효과적인 학습법 — 더 빠르게 성장하는 7가지 전략",
     "date": "2026-09-08",
