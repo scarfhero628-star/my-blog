@@ -1,5 +1,13 @@
 [
   {
+    "slug": "css-animation-tricks",
+    "title": "CSS 애니메이션과 트랜지션 마스터하기 — JavaScript 없이 부드러운 인터랙션 구현",
+    "date": "2026-09-15",
+    "tags": ["CSS", "애니메이션", "트랜지션", "웹 개발", "인터랙션"],
+    "description": "CSS 애니메이션과 트랜지션을 활용해 JavaScript 없이 부드럽고 성능 좋은 인터랙션을 구현하는 실전 기법을 소개합니다.",
+    "readingTime": 2
+  },
+  {
     "slug": "typescript-practical-patterns",
     "title": "TypeScript 실전 패턴 — 타입 안전성을 극대화하는 5가지 기법",
     "date": "2026-09-14",
