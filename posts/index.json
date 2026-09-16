@@ -1,5 +1,13 @@
 [
   {
+    "slug": "effective-code-review",
+    "title": "개발자를 위한 효과적인 코드 리뷰 — 주는 법과 받는 법",
+    "date": "2026-09-16",
+    "tags": ["코드 리뷰", "개발자 습관", "협업", "코드 품질"],
+    "description": "코드 리뷰를 효과적으로 주고 받기 위한 실전 원칙과 팀 협업을 강화하는 문화 만들기를 안내합니다.",
+    "readingTime": 1
+  },
+  {
     "slug": "css-animation-tricks",
     "title": "CSS 애니메이션과 트랜지션 마스터하기 — JavaScript 없이 부드러운 인터랙션 구현",
     "date": "2026-09-15",
