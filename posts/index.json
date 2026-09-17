@@ -1,5 +1,13 @@
 [
   {
+    "slug": "git-workflow-tips",
+    "title": "Git 실전 활용법 — 팀 개발을 부드럽게 만드는 워크플로우와 꿀팁",
+    "date": "2026-09-17",
+    "tags": ["Git", "버전 관리", "협업", "개발자 습관"],
+    "description": "일상적인 add·commit·push를 넘어 팀 협업을 효율화하는 실전 Git 워크플로우와 숨겨진 명령어를 소개합니다.",
+    "readingTime": 2
+  },
+  {
     "slug": "effective-code-review",
     "title": "개발자를 위한 효과적인 코드 리뷰 — 주는 법과 받는 법",
     "date": "2026-09-16",
