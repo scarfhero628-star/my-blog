@@ -1,5 +1,13 @@
 [
   {
+    "slug": "web-performance-optimization",
+    "title": "웹 성능 최적화 완전 가이드 — Core Web Vitals부터 번들 최적화까지",
+    "date": "2026-09-18",
+    "tags": ["웹 성능", "Core Web Vitals", "최적화", "웹 개발"],
+    "description": "Core Web Vitals 개선을 중심으로 실무에서 바로 적용할 수 있는 웹 성능 최적화 기법을 총정리합니다.",
+    "readingTime": 2
+  },
+  {
     "slug": "git-workflow-tips",
     "title": "Git 실전 활용법 — 팀 개발을 부드럽게 만드는 워크플로우와 꿀팁",
     "date": "2026-09-17",
