@@ -1,5 +1,13 @@
 [
   {
+    "slug": "writing-test-code",
+    "title": "개발자를 위한 테스트 코드 작성법 — 믿을 수 있는 코드를 만드는 5가지 원칙",
+    "date": "2026-09-19",
+    "tags": ["테스팅", "단위 테스트", "TDD", "코드 품질"],
+    "description": "테스트 코드를 처음 시작하거나 더 잘 작성하고 싶은 개발자를 위한 실전 5가지 원칙을 소개합니다.",
+    "readingTime": 4
+  },
+  {
     "slug": "web-performance-optimization",
     "title": "웹 성능 최적화 완전 가이드 — Core Web Vitals부터 번들 최적화까지",
     "date": "2026-09-18",
