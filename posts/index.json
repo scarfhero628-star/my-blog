@@ -1,5 +1,13 @@
 [
   {
+    "slug": "web-accessibility-basics",
+    "title": "웹 접근성 기초 — WCAG로 더 포용적인 웹 만들기",
+    "date": "2026-09-22",
+    "tags": ["웹 접근성", "A11y", "WCAG", "웹 개발", "HTML"],
+    "description": "WCAG 원칙을 바탕으로 더 많은 사용자가 이용할 수 있는 접근성 높은 웹 페이지를 만드는 방법을 소개합니다.",
+    "readingTime": 2
+  },
+  {
     "slug": "clean-code-principles",
     "title": "클린 코드 작성을 위한 5가지 핵심 원칙 — 읽기 좋은 코드가 좋은 코드다",
     "date": "2026-09-21",
