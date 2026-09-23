@@ -1,5 +1,13 @@
 [
   {
+    "slug": "docker-basics-for-developers",
+    "title": "Docker 기초 완전 정복 — 개발자를 위한 컨테이너 입문",
+    "date": "2026-09-23",
+    "tags": ["Docker", "컨테이너", "DevOps", "웹 개발", "배포"],
+    "description": "Docker의 핵심 개념부터 Dockerfile 작성, 기본 명령어까지 실무에 바로 적용할 수 있는 컨테이너 입문 가이드를 소개합니다.",
+    "readingTime": 4
+  },
+  {
     "slug": "web-accessibility-basics",
     "title": "웹 접근성 기초 — WCAG로 더 포용적인 웹 만들기",
     "date": "2026-09-22",
