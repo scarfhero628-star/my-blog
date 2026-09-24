@@ -1,5 +1,13 @@
 [
   {
+    "slug": "rest-api-design-principles",
+    "title": "REST API 설계 원칙 — 개발자가 꼭 알아야 할 7가지 베스트 프랙티스",
+    "date": "2026-09-24",
+    "tags": ["REST API", "웹 개발", "백엔드", "API 설계"],
+    "description": "실무에서 바로 적용할 수 있는 REST API 설계 베스트 프랙티스 7가지를 예제 코드와 함께 정리했습니다.",
+    "readingTime": 4
+  },
+  {
     "slug": "docker-basics-for-developers",
     "title": "Docker 기초 완전 정복 — 개발자를 위한 컨테이너 입문",
     "date": "2026-09-23",
