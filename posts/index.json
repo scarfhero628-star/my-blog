@@ -1,5 +1,13 @@
 [
   {
+    "slug": "regex-practical-guide",
+    "title": "정규표현식 실전 가이드 — 개발자가 꼭 알아야 할 패턴 10가지",
+    "date": "2026-09-27",
+    "tags": ["정규표현식", "Regex", "JavaScript", "개발자 팁", "문자열 처리"],
+    "description": "복잡한 문자열 처리를 단 몇 줄로 해결하는 정규표현식의 핵심 패턴과 실전 예제를 정리했습니다.",
+    "readingTime": 3
+  },
+  {
     "slug": "css-custom-properties",
     "title": "CSS 커스텀 프로퍼티 완벽 가이드 — 변수로 디자인 시스템을 한 단계 업그레이드하기",
     "date": "2026-09-26",
