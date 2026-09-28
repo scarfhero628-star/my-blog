@@ -1,5 +1,13 @@
 [
   {
+    "slug": "web-security-basics",
+    "title": "웹 보안 기초 — XSS·CSRF·SQL 인젝션을 막는 개발자 필수 방어 전략",
+    "date": "2026-09-28",
+    "tags": ["웹 보안", "XSS", "CSRF", "SQL 인젝션", "보안"],
+    "description": "실무에서 가장 자주 마주치는 세 가지 웹 공격 유형과 코드 레벨에서 바로 적용할 수 있는 방어 기법을 소개합니다.",
+    "readingTime": 4
+  },
+  {
     "slug": "regex-practical-guide",
     "title": "정규표현식 실전 가이드 — 개발자가 꼭 알아야 할 패턴 10가지",
     "date": "2026-09-27",
