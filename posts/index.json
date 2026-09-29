@@ -1,5 +1,13 @@
 [
   {
+    "slug": "sql-query-optimization",
+    "title": "SQL 쿼리 최적화 실전 가이드 — 느린 쿼리를 10배 빠르게 만드는 방법",
+    "date": "2026-09-29",
+    "tags": ["SQL", "데이터베이스", "쿼리 최적화", "백엔드", "성능"],
+    "description": "실무에서 자주 마주치는 느린 쿼리의 원인을 분석하고, 인덱스 활용부터 쿼리 재작성까지 즉시 적용할 수 있는 SQL 최적화 기법을 소개합니다.",
+    "readingTime": 3
+  },
+  {
     "slug": "web-security-basics",
     "title": "웹 보안 기초 — XSS·CSRF·SQL 인젝션을 막는 개발자 필수 방어 전략",
     "date": "2026-09-28",
@@ -40,6 +48,10 @@
     "readingTime": 4
   },
   {
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
+>>>>>>> 2a3d9b3 (새 포스트: SQL 쿼리 최적화 실전 가이드 — 느린 쿼리를 10배 빠르게 만드는 방법)
     "slug": "docker-basics-for-developers",
     "title": "Docker 기초 완전 정복 — 개발자를 위한 컨테이너 입문",
     "date": "2026-09-23",
