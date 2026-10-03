@@ -1,5 +1,13 @@
 [
   {
+    "slug": "functional-programming-javascript",
+    "title": "JavaScript 함수형 프로그래밍 입문 — 부작용을 줄이고 예측 가능한 코드 작성하기",
+    "date": "2026-10-03",
+    "tags": ["함수형 프로그래밍", "JavaScript", "웹 개발", "코드 품질", "순수 함수"],
+    "description": "순수 함수·불변성·고차 함수 등 함수형 프로그래밍의 핵심 개념을 실전 예제와 함께 익히고 더 예측 가능한 JavaScript 코드를 작성하는 방법을 소개합니다.",
+    "readingTime": 3
+  },
+  {
     "slug": "terminal-productivity-tips",
     "title": "터미널 생산성 완전 가이드 — 개발자를 위한 CLI 환경 최적화",
     "date": "2026-10-02",
