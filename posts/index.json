@@ -1,5 +1,13 @@
 [
   {
+    "slug": "nextjs-app-router-guide",
+    "title": "Next.js App Router 완전 가이드 — Pages Router에서 App Router로 넘어가야 하는 이유",
+    "date": "2026-10-05",
+    "tags": ["Next.js", "React", "웹 개발", "SSR", "프론트엔드"],
+    "description": "Next.js 13부터 도입된 App Router의 핵심 개념과 Pages Router와의 차이점을 실전 예제로 살펴봅니다.",
+    "readingTime": 2
+  },
+  {
     "slug": "graphql-basics-for-developers",
     "title": "GraphQL 입문 가이드 — REST API 대신 GraphQL을 선택해야 할 이유",
     "date": "2026-10-04",
