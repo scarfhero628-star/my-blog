@@ -1,5 +1,13 @@
 [
   {
+    "slug": "css-flexbox-guide",
+    "title": "CSS Flexbox 완전 가이드 — 레이아웃의 기본기를 제대로 익히자",
+    "date": "2026-10-07",
+    "tags": ["CSS", "Flexbox", "웹 개발", "레이아웃", "프론트엔드"],
+    "description": "CSS Flexbox의 핵심 개념과 자주 쓰이는 실전 패턴을 정리해 복잡한 레이아웃도 간결하게 작성하는 방법을 소개합니다.",
+    "readingTime": 3
+  },
+  {
     "slug": "vite-modern-build-tool",
     "title": "Vite로 개발 환경을 혁신하다 — 번개처럼 빠른 모던 빌드 도구 입문",
     "date": "2026-10-06",
@@ -48,10 +56,6 @@
     "readingTime": 4
   },
   {
-<<<<<<< HEAD
-=======
->>>>>>> Stashed changes
->>>>>>> 68c87af (새 포스트: Vite로 개발 환경을 혁신하다 — 번개처럼 빠른 모던 빌드 도구 입문)
     "slug": "browser-devtools-tips",
     "title": "브라우저 DevTools 완벽 활용법 — 개발 속도를 높이는 숨겨진 기능들",
     "date": "2026-09-30",
