@@ -1,5 +1,13 @@
 [
   {
+    "slug": "tailwind-css-guide",
+    "title": "Tailwind CSS 실전 가이드 — 유틸리티 퍼스트로 CSS를 빠르게 짜는 법",
+    "date": "2026-10-08",
+    "tags": ["Tailwind CSS", "CSS", "웹 개발", "프론트엔드", "유틸리티 퍼스트"],
+    "description": "유틸리티 퍼스트 방식으로 CSS를 빠르게 작성할 수 있는 Tailwind CSS의 핵심 개념과 실전 활용법을 소개합니다.",
+    "readingTime": 4
+  },
+  {
     "slug": "css-flexbox-guide",
     "title": "CSS Flexbox 완전 가이드 — 레이아웃의 기본기를 제대로 익히자",
     "date": "2026-10-07",
