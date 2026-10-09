@@ -1,5 +1,13 @@
 [
   {
+    "slug": "github-actions-cicd-guide",
+    "title": "GitHub Actions로 CI/CD 파이프라인 구축하기 — 자동화로 배포를 한 단계 업그레이드",
+    "date": "2026-10-09",
+    "tags": ["GitHub Actions", "CI/CD", "DevOps", "자동화", "배포"],
+    "description": "GitHub Actions를 활용해 테스트·빌드·배포를 자동화하는 CI/CD 파이프라인을 단계별로 구축하는 방법을 소개합니다.",
+    "readingTime": 4
+  },
+  {
     "slug": "tailwind-css-guide",
     "title": "Tailwind CSS 실전 가이드 — 유틸리티 퍼스트로 CSS를 빠르게 짜는 법",
     "date": "2026-10-08",
