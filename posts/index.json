@@ -1,5 +1,38 @@
 [
   {
+    "slug": "jwt-oauth-authentication",
+    "title": "JWT와 OAuth로 안전한 인증 구현하기 — 토큰 기반 인증의 원리와 실전 패턴",
+    "date": "2026-10-10",
+    "tags": ["JWT", "OAuth", "인증", "보안", "웹 개발"],
+    "description": "JWT의 구조와 OAuth 2.0 흐름을 이해하고, 실무에서 바로 적용할 수 있는 안전한 토큰 기반 인증 패턴을 소개합니다.",
+    "readingTime": 4
+  },
+  {
+    "slug": "github-actions-cicd-guide",
+    "title": "GitHub Actions로 CI/CD 파이프라인 구축하기 — 자동화로 배포를 한 단계 업그레이드",
+    "date": "2026-10-09",
+    "tags": ["GitHub Actions", "CI/CD", "DevOps", "자동화", "배포"],
+    "description": "GitHub Actions를 활용해 테스트·빌드·배포를 자동화하는 CI/CD 파이프라인을 단계별로 구축하는 방법을 소개합니다.",
+    "readingTime": 4
+  },
+  {
+    "slug": "tailwind-css-guide",
+    "title": "Tailwind CSS 실전 가이드 — 유틸리티 퍼스트로 CSS를 빠르게 짜는 법",
+    "date": "2026-10-08",
+    "tags": ["Tailwind CSS", "CSS", "웹 개발", "프론트엔드", "유틸리티 퍼스트"],
+    "description": "유틸리티 퍼스트 방식으로 CSS를 빠르게 작성할 수 있는 Tailwind CSS의 핵심 개념과 실전 활용법을 소개합니다.",
+    "readingTime": 4
+  },
+  {
+    "slug": "css-flexbox-guide",
+    "title": "CSS Flexbox 완전 가이드 — 레이아웃의 기본기를 제대로 익히자",
+    "date": "2026-10-07",
+    "tags": ["CSS", "Flexbox", "웹 개발", "레이아웃", "프론트엔드"],
+    "description": "CSS Flexbox의 핵심 개념과 자주 쓰이는 실전 패턴을 정리해 복잡한 레이아웃도 간결하게 작성하는 방법을 소개합니다.",
+    "readingTime": 3
+  },
+  {
+>>>>>>> Stashed changes
     "slug": "vite-modern-build-tool",
     "title": "Vite로 개발 환경을 혁신하다 — 번개처럼 빠른 모던 빌드 도구 입문",
     "date": "2026-10-06",
@@ -48,10 +81,6 @@
     "readingTime": 4
   },
   {
-<<<<<<< HEAD
-=======
->>>>>>> Stashed changes
->>>>>>> 68c87af (새 포스트: Vite로 개발 환경을 혁신하다 — 번개처럼 빠른 모던 빌드 도구 입문)
     "slug": "browser-devtools-tips",
     "title": "브라우저 DevTools 완벽 활용법 — 개발 속도를 높이는 숨겨진 기능들",
     "date": "2026-09-30",
