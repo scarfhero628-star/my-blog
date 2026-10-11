@@ -1,5 +1,13 @@
 [
   {
+    "slug": "state-management-patterns",
+    "title": "프론트엔드 상태 관리 완전 정복 — Context API부터 Zustand까지 선택 기준 정리",
+    "date": "2026-10-11",
+    "tags": ["상태 관리", "React", "Zustand", "Redux", "프론트엔드"],
+    "description": "React 애플리케이션에서 상태를 효과적으로 관리하는 다양한 패턴과 라이브러리를 비교하고 상황에 맞는 선택 기준을 제시합니다.",
+    "readingTime": 4
+  },
+  {
     "slug": "jwt-oauth-authentication",
     "title": "JWT와 OAuth로 안전한 인증 구현하기 — 토큰 기반 인증의 원리와 실전 패턴",
     "date": "2026-10-10",
