@@ -1,5 +1,13 @@
 [
   {
+    "slug": "progressive-web-apps",
+    "title": "PWA(프로그레시브 웹 앱) 입문 가이드 — 웹 앱을 네이티브처럼 만드는 기술",
+    "date": "2026-10-12",
+    "tags": ["PWA", "웹 개발", "Service Worker", "오프라인", "프론트엔드"],
+    "description": "Service Worker와 Web App Manifest를 활용해 오프라인 지원, 푸시 알림, 홈 화면 설치까지 가능한 PWA를 구현하는 방법을 소개합니다.",
+    "readingTime": 4
+  },
+  {
     "slug": "state-management-patterns",
     "title": "프론트엔드 상태 관리 완전 정복 — Context API부터 Zustand까지 선택 기준 정리",
     "date": "2026-10-11",
