@@ -1,5 +1,13 @@
 [
   {
+    "slug": "websocket-realtime-guide",
+    "title": "WebSocket으로 실시간 기능 구현하기 — 채팅부터 알림까지 완벽 가이드",
+    "date": "2026-10-13",
+    "tags": ["WebSocket", "실시간 통신", "웹 개발", "Node.js", "프론트엔드"],
+    "description": "WebSocket의 동작 원리를 이해하고, 브라우저와 Node.js 서버에서 채팅·알림·라이브 업데이트 기능을 구현하는 실전 방법을 소개합니다.",
+    "readingTime": 3
+  },
+  {
     "slug": "progressive-web-apps",
     "title": "PWA(프로그레시브 웹 앱) 입문 가이드 — 웹 앱을 네이티브처럼 만드는 기술",
     "date": "2026-10-12",
