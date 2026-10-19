@@ -1,5 +1,13 @@
 [
   {
+    "slug": "package-manager-guide",
+    "title": "패키지 매니저 완전 가이드 — npm, Yarn, pnpm 비교와 팀에 맞는 선택 기준",
+    "date": "2026-10-19",
+    "tags": ["패키지 매니저", "npm", "Yarn", "pnpm", "개발 환경", "Node.js"],
+    "description": "npm, Yarn, pnpm 세 가지 패키지 매니저의 핵심 차이와 장단점을 비교해 프로젝트에 맞는 최적의 선택 기준을 제시합니다.",
+    "readingTime": 4
+  },
+  {
     "slug": "algorithms-data-structures-guide",
     "title": "알고리즘과 자료구조 입문 — 코딩 테스트와 실무를 동시에 잡는 핵심 개념 정리",
     "date": "2026-10-18",
