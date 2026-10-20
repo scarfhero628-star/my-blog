@@ -1,5 +1,13 @@
 [
   {
+    "slug": "kubernetes-basics-guide",
+    "title": "Kubernetes 입문 가이드 — Docker를 넘어 컨테이너 오케스트레이션으로",
+    "date": "2026-10-20",
+    "tags": ["Kubernetes", "컨테이너", "DevOps", "오케스트레이션", "Docker"],
+    "description": "Docker 컨테이너를 자동으로 배포·확장·관리하는 Kubernetes의 핵심 개념과 기본 명령어를 실전 예제와 함께 소개합니다.",
+    "readingTime": 4
+  },
+  {
     "slug": "package-manager-guide",
     "title": "패키지 매니저 완전 가이드 — npm, Yarn, pnpm 비교와 팀에 맞는 선택 기준",
     "date": "2026-10-19",
