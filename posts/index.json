@@ -1,5 +1,13 @@
 [
   {
+    "slug": "responsive-web-design-guide",
+    "title": "반응형 웹 디자인 마스터하기 — 미디어 쿼리부터 모바일 퍼스트 전략까지",
+    "date": "2026-10-21",
+    "tags": ["반응형 디자인", "CSS", "미디어 쿼리", "모바일 퍼스트", "웹 개발"],
+    "description": "미디어 쿼리와 모바일 퍼스트 전략을 활용해 어떤 기기에서도 완벽하게 동작하는 반응형 웹 페이지를 만드는 핵심 기법을 소개합니다.",
+    "readingTime": 3
+  },
+  {
     "slug": "kubernetes-basics-guide",
     "title": "Kubernetes 입문 가이드 — Docker를 넘어 컨테이너 오케스트레이션으로",
     "date": "2026-10-20",
