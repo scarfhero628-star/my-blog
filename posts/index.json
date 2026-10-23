@@ -1,5 +1,13 @@
 [
   {
+    "slug": "react-query-swr-guide",
+    "title": "React Query와 SWR로 서버 상태 관리하기 — 데이터 페칭의 새로운 표준",
+    "date": "2026-10-23",
+    "tags": ["React Query", "SWR", "서버 상태", "React", "데이터 페칭"],
+    "description": "React Query와 SWR을 활용해 서버 상태를 효율적으로 관리하고 캐싱·재검증·낙관적 업데이트를 구현하는 실전 방법을 소개합니다.",
+    "readingTime": 4
+  },
+  {
     "slug": "nodejs-event-loop-guide",
     "title": "Node.js 이벤트 루프 완전 가이드 — 비동기 처리의 비밀을 파헤치다",
     "date": "2026-10-22",
