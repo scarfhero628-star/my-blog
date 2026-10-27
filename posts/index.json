@@ -1,5 +1,13 @@
 [
   {
+    "slug": "serverless-architecture-guide",
+    "title": "서버리스 아키텍처 완전 가이드 — AWS Lambda로 인프라 없이 백엔드 구축하기",
+    "date": "2026-10-27",
+    "tags": ["서버리스", "AWS Lambda", "아키텍처", "백엔드", "클라우드"],
+    "description": "서버를 직접 관리하지 않고도 확장 가능한 백엔드를 구축하는 서버리스 아키텍처의 핵심 개념과 AWS Lambda 실전 활용법을 소개합니다.",
+    "readingTime": 4
+  },
+  {
     "slug": "vscode-productivity-guide",
     "title": "VSCode 완전 활용 가이드 — 생산성을 높이는 확장 프로그램과 설정 꿀팁",
     "date": "2026-10-26",
