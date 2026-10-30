@@ -1,5 +1,13 @@
 [
   {
+    "slug": "feature-flags-guide",
+    "title": "피처 플래그 실전 가이드 — 안전한 배포와 점진적 출시를 위한 핵심 전략",
+    "date": "2026-10-30",
+    "tags": ["피처 플래그", "배포 전략", "DevOps", "A/B 테스트", "개발 생산성"],
+    "description": "코드 변경 없이 기능을 켜고 끄는 피처 플래그로 더 안전하게 배포하고 점진적으로 기능을 출시하는 방법을 소개합니다.",
+    "readingTime": 5
+  },
+  {
     "slug": "msw-mock-service-worker-guide",
     "title": "MSW(Mock Service Worker) 완전 가이드 — API 모킹으로 프론트엔드 개발 생산성 높이기",
     "date": "2026-10-29",
