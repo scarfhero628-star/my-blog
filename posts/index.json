@@ -1,5 +1,13 @@
 [
   {
+    "slug": "javascript-memory-management",
+    "title": "JavaScript 메모리 관리 완전 가이드 — 메모리 누수를 예방하고 성능을 높이는 방법",
+    "date": "2026-10-31",
+    "tags": ["JavaScript", "메모리 관리", "성능", "웹 개발", "메모리 누수"],
+    "description": "JavaScript에서 흔히 발생하는 메모리 누수의 원인을 파악하고, 가비지 컬렉션 원리를 이해해 성능 문제를 예방하는 실전 방법을 소개합니다.",
+    "readingTime": 4
+  },
+  {
     "slug": "feature-flags-guide",
     "title": "피처 플래그 실전 가이드 — 안전한 배포와 점진적 출시를 위한 핵심 전략",
     "date": "2026-10-30",
