@@ -1,5 +1,13 @@
 [
   {
+    "slug": "developer-burnout-prevention",
+    "title": "개발자 번아웃 예방 가이드 — 지속 가능한 성장을 위한 자기관리법",
+    "date": "2026-11-02",
+    "tags": ["번아웃", "개발자 습관", "멘탈 헬스", "생산성", "자기관리"],
+    "description": "개발자 번아웃의 원인과 징후를 파악하고, 지속 가능한 커리어를 위한 실전 자기관리 전략을 소개합니다.",
+    "readingTime": 5
+  },
+  {
     "slug": "web-workers-guide",
     "title": "Web Workers 완전 가이드 — 브라우저에서 멀티스레딩으로 성능 극대화하기",
     "date": "2026-11-01",
