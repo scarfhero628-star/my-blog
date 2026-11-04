@@ -1,5 +1,13 @@
 [
   {
+    "slug": "css-container-queries-guide",
+    "title": "CSS Container Queries 완전 가이드 — 컴포넌트 중심 반응형 디자인의 새로운 패러다임",
+    "date": "2026-11-04",
+    "tags": ["CSS", "Container Queries", "반응형 디자인", "웹 개발", "프론트엔드"],
+    "description": "뷰포트가 아닌 부모 컨테이너 크기에 반응하는 CSS Container Queries로 진정한 컴포넌트 중심 반응형 디자인을 구현하는 방법을 소개합니다.",
+    "readingTime": 3
+  },
+  {
     "slug": "http-caching-guide",
     "title": "HTTP 캐싱 완전 가이드 — 브라우저와 서버 사이의 캐시 전략 마스터하기",
     "date": "2026-11-03",
