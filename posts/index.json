@@ -1,5 +1,13 @@
 [
   {
+    "slug": "javascript-generators-iterators",
+    "title": "JavaScript 제너레이터와 이터레이터 완전 가이드 — 지연 평가로 성능을 높이는 비동기 패턴",
+    "date": "2026-11-05",
+    "tags": ["JavaScript", "제너레이터", "이터레이터", "비동기", "웹 개발"],
+    "description": "JavaScript 제너레이터와 이터레이터의 동작 원리를 이해하고, 지연 평가·무한 시퀀스·비동기 흐름 제어에 활용하는 실전 패턴을 소개합니다.",
+    "readingTime": 4
+  },
+  {
     "slug": "css-container-queries-guide",
     "title": "CSS Container Queries 완전 가이드 — 컴포넌트 중심 반응형 디자인의 새로운 패러다임",
     "date": "2026-11-04",
