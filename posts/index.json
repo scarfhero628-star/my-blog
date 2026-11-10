@@ -1,5 +1,13 @@
 [
   {
+    "slug": "typescript-utility-types-guide",
+    "title": "TypeScript 유틸리티 타입 완전 가이드 — Partial, Pick, Omit, Record로 타입을 자유자재로 다루는 법",
+    "date": "2026-11-10",
+    "tags": ["TypeScript", "유틸리티 타입", "타입 시스템", "웹 개발", "코드 품질"],
+    "description": "TypeScript 내장 유틸리티 타입을 활용해 중복 없이 유연한 타입을 만들고 코드 품질을 높이는 실전 방법을 소개합니다.",
+    "readingTime": 4
+  },
+  {
     "slug": "observability-guide",
     "title": "Observability 완전 가이드 — 로그, 메트릭, 트레이싱으로 시스템을 투명하게 운영하기",
     "date": "2026-11-09",
