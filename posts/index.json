@@ -1,5 +1,13 @@
 [
   {
+    "slug": "javascript-error-handling-patterns",
+    "title": "JavaScript 에러 처리 완전 가이드 — 견고한 애플리케이션을 위한 오류 처리 패턴",
+    "date": "2026-11-13",
+    "tags": ["JavaScript", "에러 처리", "비동기", "Node.js", "웹 개발"],
+    "description": "동기·비동기 환경에서 JavaScript 에러를 체계적으로 처리하는 핵심 패턴과 실전 전략을 소개합니다.",
+    "readingTime": 4
+  },
+  {
     "slug": "clean-architecture-guide",
     "title": "클린 아키텍처 완전 가이드 — 의존성 역전으로 유지보수하기 좋은 소프트웨어 만들기",
     "date": "2026-11-12",
