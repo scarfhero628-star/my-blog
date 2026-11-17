@@ -1,5 +1,13 @@
 [
   {
+    "slug": "network-fundamentals-for-developers",
+    "title": "개발자를 위한 네트워크 기초 완전 가이드 — TCP/IP부터 DNS까지, 웹 통신의 모든 것",
+    "date": "2026-11-17",
+    "tags": ["네트워크", "TCP/IP", "DNS", "HTTP", "웹 개발"],
+    "description": "웹 개발자가 꼭 알아야 할 네트워크 핵심 개념인 TCP/IP, DNS, HTTP를 이해하고 실무 디버깅과 성능 최적화에 활용하는 방법을 소개합니다.",
+    "readingTime": 4
+  },
+  {
     "slug": "web-components-guide",
     "title": "웹 컴포넌트 완전 가이드 — 프레임워크 없이 재사용 가능한 UI 컴포넌트 만들기",
     "date": "2026-11-16",
