@@ -1,5 +1,13 @@
 [
   {
+    "slug": "database-schema-design-guide",
+    "title": "데이터베이스 설계 완전 가이드 — ERD와 정규화로 견고한 스키마 만들기",
+    "date": "2026-11-18",
+    "tags": ["데이터베이스", "ERD", "정규화", "SQL", "백엔드"],
+    "description": "좋은 데이터베이스 스키마 설계를 위한 ERD 작성법과 정규화 원칙, 실무 패턴을 단계별로 소개합니다.",
+    "readingTime": 4
+  },
+  {
     "slug": "network-fundamentals-for-developers",
     "title": "개발자를 위한 네트워크 기초 완전 가이드 — TCP/IP부터 DNS까지, 웹 통신의 모든 것",
     "date": "2026-11-17",
