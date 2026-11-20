@@ -1,5 +1,13 @@
 [
   {
+    "slug": "playwright-e2e-testing-guide",
+    "title": "Playwright E2E 테스트 완전 가이드 — 브라우저 자동화로 실제 사용자 경험을 검증하는 법",
+    "date": "2026-11-20",
+    "tags": ["Playwright", "E2E 테스트", "테스팅", "자동화", "웹 개발"],
+    "description": "Playwright로 End-to-End 테스트를 작성해 실제 브라우저 환경에서 애플리케이션의 핵심 흐름을 자동으로 검증하는 방법을 소개합니다.",
+    "readingTime": 5
+  },
+  {
     "slug": "technical-interview-guide",
     "title": "개발자 기술 면접 완전 가이드 — 코딩 테스트부터 시스템 디자인까지 한 번에 준비하기",
     "date": "2026-11-19",
