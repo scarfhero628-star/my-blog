@@ -1,5 +1,13 @@
 [
   {
+    "slug": "side-project-guide",
+    "title": "개발자 사이드 프로젝트 완전 가이드 — 아이디어 발굴부터 출시까지",
+    "date": "2026-11-21",
+    "tags": ["사이드 프로젝트", "커리어", "생산성", "프로젝트 관리", "개발자 습관"],
+    "description": "성공적인 사이드 프로젝트를 기획하고 완성까지 이끄는 실전 전략을 단계별로 소개합니다.",
+    "readingTime": 4
+  },
+  {
     "slug": "playwright-e2e-testing-guide",
     "title": "Playwright E2E 테스트 완전 가이드 — 브라우저 자동화로 실제 사용자 경험을 검증하는 법",
     "date": "2026-11-20",
