@@ -1,5 +1,13 @@
 [
   {
+    "slug": "openapi-swagger-guide",
+    "title": "OpenAPI와 Swagger로 API 문서 자동화하기 — 개발자 경험을 높이는 실전 가이드",
+    "date": "2026-11-22",
+    "tags": ["OpenAPI", "Swagger", "API 문서화", "백엔드", "웹 개발"],
+    "description": "OpenAPI 명세와 Swagger 도구를 활용해 API 문서를 자동화하고, 팀의 개발 생산성과 협업을 높이는 방법을 소개합니다.",
+    "readingTime": 4
+  },
+  {
     "slug": "side-project-guide",
     "title": "개발자 사이드 프로젝트 완전 가이드 — 아이디어 발굴부터 출시까지",
     "date": "2026-11-21",
