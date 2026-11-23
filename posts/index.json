@@ -1,5 +1,13 @@
 [
   {
+    "slug": "zod-schema-validation-guide",
+    "title": "Zod로 타입 안전한 데이터 검증하기 — 런타임 유효성 검사의 새로운 표준",
+    "date": "2026-11-23",
+    "tags": ["Zod", "TypeScript", "스키마 검증", "런타임 검증", "웹 개발"],
+    "description": "Zod 라이브러리로 TypeScript 타입과 런타임 유효성 검사를 동시에 처리해 더 안전하고 견고한 애플리케이션을 만드는 방법을 소개합니다.",
+    "readingTime": 5
+  },
+  {
     "slug": "developer-habits",
     "title": "성장하는 개발자의 7가지 일상 습관",
     "date": "2026-09-06",
