@@ -1,5 +1,13 @@
 [
   {
+    "slug": "webassembly-guide",
+    "title": "WebAssembly 입문 가이드 — 브라우저에서 C/C++·Rust 코드를 실행하는 혁신 기술",
+    "date": "2026-11-24",
+    "tags": ["WebAssembly", "WASM", "웹 성능", "Rust", "브라우저"],
+    "description": "WebAssembly의 핵심 개념과 동작 원리를 이해하고, JavaScript와 함께 고성능 웹 애플리케이션을 구축하는 실전 방법을 소개합니다.",
+    "readingTime": 5
+  },
+  {
     "slug": "openapi-swagger-guide",
     "title": "OpenAPI와 Swagger로 API 문서 자동화하기 — 개발자 경험을 높이는 실전 가이드",
     "date": "2026-11-22",
