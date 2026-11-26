@@ -1,5 +1,13 @@
 [
   {
+    "slug": "eslint-prettier-code-quality",
+    "title": "ESLint과 Prettier로 코드 품질 자동화하기 — 일관된 코드 스타일을 팀 전체에 적용하는 방법",
+    "date": "2026-11-26",
+    "tags": ["ESLint", "Prettier", "코드 품질", "JavaScript", "TypeScript"],
+    "description": "ESLint과 Prettier를 프로젝트에 도입해 코드 스타일을 자동으로 통일하고 잠재적 버그를 사전에 잡는 실전 설정 방법을 소개합니다.",
+    "readingTime": 3
+  },
+  {
     "slug": "event-driven-architecture-guide",
     "title": "이벤트 주도 아키텍처(EDA) 완전 가이드 — 느슨한 결합으로 확장 가능한 시스템 만들기",
     "date": "2026-11-25",
