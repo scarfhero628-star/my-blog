@@ -1,5 +1,13 @@
 [
   {
+    "slug": "web-font-optimization-guide",
+    "title": "웹 폰트 최적화 완전 가이드 — 로딩 속도와 사용자 경험을 동시에 잡는 실전 전략",
+    "date": "2026-11-27",
+    "tags": ["웹 폰트", "성능", "CSS", "웹 개발", "UX"],
+    "description": "웹 폰트가 야기하는 성능 문제를 이해하고 FOUT·FOIT를 방지하며 로딩 속도를 극대화하는 실전 최적화 전략을 소개합니다.",
+    "readingTime": 3
+  },
+  {
     "slug": "eslint-prettier-code-quality",
     "title": "ESLint과 Prettier로 코드 품질 자동화하기 — 일관된 코드 스타일을 팀 전체에 적용하는 방법",
     "date": "2026-11-26",
